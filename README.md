@@ -10,3 +10,5 @@ This bot's prefix is '-'
 # ~Purge (Mass Deletion of Messages)
 
 *Thank you for your interest in this bot. Contact Dynamic#1657*
+
+**YOU MUST DOWNLOAD Python to run this!**
